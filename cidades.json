@@ -1,0 +1,1563 @@
+[
+  {
+    "id": 1,
+    "cidade": "João Pessoa",
+    "habitantes": 811598,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 2,
+    "cidade": "Campina Grande",
+    "habitantes": 410332,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 3,
+    "cidade": "Santa Rita",
+    "habitantes": 136851,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 4,
+    "cidade": "Patos",
+    "habitantes": 107790,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 5,
+    "cidade": "Bayeux",
+    "habitantes": 97010,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 6,
+    "cidade": "Sousa",
+    "habitantes": 69554,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 7,
+    "cidade": "Cabedelo",
+    "habitantes": 68033,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 8,
+    "cidade": "Cajazeiras",
+    "habitantes": 62187,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 9,
+    "cidade": "Guarabira",
+    "habitantes": 58881,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 10,
+    "cidade": "Sapé",
+    "habitantes": 52697,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 11,
+    "cidade": "Mamanguape",
+    "habitantes": 44694,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 12,
+    "cidade": "Queimadas",
+    "habitantes": 43945,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 13,
+    "cidade": "São Bento",
+    "habitantes": 33847,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 14,
+    "cidade": "Monteiro",
+    "habitantes": 33039,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 15,
+    "cidade": "Esperança",
+    "habitantes": 33031,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 16,
+    "cidade": "Pombal",
+    "habitantes": 32739,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 17,
+    "cidade": "Catolé do Rocha",
+    "habitantes": 30360,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 18,
+    "cidade": "Alagoa Grande",
+    "habitantes": 28604,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 19,
+    "cidade": "Pedras de Fogo",
+    "habitantes": 28395,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 20,
+    "cidade": "Lagoa Seca",
+    "habitantes": 27398,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 21,
+    "cidade": "Solânea",
+    "habitantes": 26551,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 22,
+    "cidade": "Itaporanga",
+    "habitantes": 24674,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 23,
+    "cidade": "Itabaiana",
+    "habitantes": 24519,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 24,
+    "cidade": "Conde",
+    "habitantes": 24380,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 25,
+    "cidade": "Rio Tinto",
+    "habitantes": 24090,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 26,
+    "cidade": "Princesa Isabel",
+    "habitantes": 23247,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 27,
+    "cidade": "Areia",
+    "habitantes": 22940,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 28,
+    "cidade": "Mari",
+    "habitantes": 21806,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 29,
+    "cidade": "Caaporã",
+    "habitantes": 21717,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 30,
+    "cidade": "Bananeiras",
+    "habitantes": 21195,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 31,
+    "cidade": "Alagoa Nova",
+    "habitantes": 20595,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 32,
+    "cidade": "Cuité",
+    "habitantes": 20337,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 33,
+    "cidade": "Araruna",
+    "habitantes": 20237,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 34,
+    "cidade": "São José de Piranhas",
+    "habitantes": 20062,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 35,
+    "cidade": "Alhandra",
+    "habitantes": 19412,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 36,
+    "cidade": "Remígio",
+    "habitantes": 19368,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 37,
+    "cidade": "Aroeiras",
+    "habitantes": 19178,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 38,
+    "cidade": "Pitimbu",
+    "habitantes": 18938,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 39,
+    "cidade": "Conceição",
+    "habitantes": 18903,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 40,
+    "cidade": "Picuí",
+    "habitantes": 18704,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 41,
+    "cidade": "Itapororoca",
+    "habitantes": 18527,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 42,
+    "cidade": "Pocinhos",
+    "habitantes": 18451,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 43,
+    "cidade": "Ingá",
+    "habitantes": 18105,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 44,
+    "cidade": "Juazeirinho",
+    "habitantes": 18061,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 45,
+    "cidade": "São João do Rio do Peixe",
+    "habitantes": 17934,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 46,
+    "cidade": "Boqueirão",
+    "habitantes": 17757,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 47,
+    "cidade": "Belém",
+    "habitantes": 17640,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 48,
+    "cidade": "Cruz do Espírito Santo",
+    "habitantes": 17389,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 49,
+    "cidade": "Cacimba de Dentro",
+    "habitantes": 17153,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 50,
+    "cidade": "Araçagi",
+    "habitantes": 17061,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 51,
+    "cidade": "Sumé",
+    "habitantes": 16872,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 52,
+    "cidade": "Piancó",
+    "habitantes": 16039,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 53,
+    "cidade": "Coremas",
+    "habitantes": 18628,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 54,
+    "cidade": "Santa Luzia",
+    "habitantes": 15341,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 55,
+    "cidade": "Uiraúna",
+    "habitantes": 15307,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 56,
+    "cidade": "Barra de Santa Rosa",
+    "habitantes": 15286,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 57,
+    "cidade": "Taperoá",
+    "habitantes": 15193,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 58,
+    "cidade": "Teixeira",
+    "habitantes": 15085,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 59,
+    "cidade": "Soledade",
+    "habitantes": 14853,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 60,
+    "cidade": "Tavares",
+    "habitantes": 14615,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 61,
+    "cidade": "Alagoinha",
+    "habitantes": 14376,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 62,
+    "cidade": "Jacaraú",
+    "habitantes": 14348,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 63,
+    "cidade": "Gurinhém",
+    "habitantes": 14126,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 64,
+    "cidade": "Brejo do Cruz",
+    "habitantes": 14006,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 65,
+    "cidade": "Massaranduba",
+    "habitantes": 13755,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 66,
+    "cidade": "Puxinanã",
+    "habitantes": 13638,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 67,
+    "cidade": "Serra Branca",
+    "habitantes": 13637,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 68,
+    "cidade": "Arara",
+    "habitantes": 13448,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 69,
+    "cidade": "Mogeiro",
+    "habitantes": 13300,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 70,
+    "cidade": "Lucena",
+    "habitantes": 12965,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 71,
+    "cidade": "Paulista",
+    "habitantes": 12263,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 72,
+    "cidade": "Salgado de São Félix",
+    "habitantes": 12145,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 73,
+    "cidade": "Pilar",
+    "habitantes": 11863,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 74,
+    "cidade": "Bonito de Santa Fé",
+    "habitantes": 11814,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 75,
+    "cidade": "Imaculada",
+    "habitantes": 11792,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 76,
+    "cidade": "São Sebastião de Lagoa de Roça",
+    "habitantes": 11762,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 77,
+    "cidade": "Fagundes",
+    "habitantes": 11345,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 78,
+    "cidade": "Manaíra",
+    "habitantes": 11094,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 79,
+    "cidade": "São Vicente do Seridó",
+    "habitantes": 10994,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 80,
+    "cidade": "Tacima",
+    "habitantes": 10896,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 81,
+    "cidade": "Itatuba",
+    "habitantes": 10809,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 82,
+    "cidade": "Juripiranga",
+    "habitantes": 10721,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 83,
+    "cidade": "Nova Floresta",
+    "habitantes": 10644,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 84,
+    "cidade": "Pirpirituba",
+    "habitantes": 10570,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 85,
+    "cidade": "Natuba",
+    "habitantes": 10455,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 86,
+    "cidade": "Dona Inês",
+    "habitantes": 10419,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 87,
+    "cidade": "Cachoeira dos Índios",
+    "habitantes": 10191,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 88,
+    "cidade": "Água Branca",
+    "habitantes": 10172,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 89,
+    "cidade": "Umbuzeiro",
+    "habitantes": 9901,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 90,
+    "cidade": "Mulungu",
+    "habitantes": 9882,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 91,
+    "cidade": "Juru",
+    "habitantes": 9880,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 92,
+    "cidade": "Triunfo",
+    "habitantes": 9465,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 93,
+    "cidade": "Baía da Traição",
+    "habitantes": 8951,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 94,
+    "cidade": "Riacho dos Cavalos",
+    "habitantes": 8587,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 95,
+    "cidade": "Marcação",
+    "habitantes": 8475,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 96,
+    "cidade": "Gado Bravo",
+    "habitantes": 8443,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 97,
+    "cidade": "Aparecida",
+    "habitantes": 8348,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 98,
+    "cidade": "Mataraca",
+    "habitantes": 8345,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 99,
+    "cidade": "Desterro",
+    "habitantes": 8280,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 100,
+    "cidade": "Barra de Santana",
+    "habitantes": 8245,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 101,
+    "cidade": "Pedra Lavrada",
+    "habitantes": 8053,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 102,
+    "cidade": "Juarez Távora",
+    "habitantes": 7901,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 103,
+    "cidade": "Sobrado",
+    "habitantes": 7754,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 104,
+    "cidade": "São Mamede",
+    "habitantes": 7738,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 105,
+    "cidade": "Jericó",
+    "habitantes": 7730,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 106,
+    "cidade": "São José da Lagoa Tapada",
+    "habitantes": 7678,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 107,
+    "cidade": "Lagoa de Dentro",
+    "habitantes": 7645,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 108,
+    "cidade": "Casserengue",
+    "habitantes": 7436,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 109,
+    "cidade": "Livramento",
+    "habitantes": 7371,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 110,
+    "cidade": "Belém do Brejo do Cruz",
+    "habitantes": 7334,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 111,
+    "cidade": "Nazarezinho",
+    "habitantes": 7307,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 112,
+    "cidade": "Caiçara",
+    "habitantes": 7288,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 113,
+    "cidade": "Cubati",
+    "habitantes": 7234,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 114,
+    "cidade": "Cacimbas",
+    "habitantes": 7148,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 115,
+    "cidade": "São Miguel de Taipu",
+    "habitantes": 7131,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 116,
+    "cidade": "Junco do Seridó",
+    "habitantes": 7111,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 117,
+    "cidade": "Santana dos Garrotes",
+    "habitantes": 7067,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 118,
+    "cidade": "Serra Redonda",
+    "habitantes": 7036,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 119,
+    "cidade": "Boa Vista",
+    "habitantes": 6986,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 120,
+    "cidade": "Areial",
+    "habitantes": 6938,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 121,
+    "cidade": "Cuitegi",
+    "habitantes": 6815,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 122,
+    "cidade": "Condado",
+    "habitantes": 6743,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 123,
+    "cidade": "Pilões",
+    "habitantes": 6667,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 124,
+    "cidade": "Santa Cruz",
+    "habitantes": 6582,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 125,
+    "cidade": "Olho d'Água",
+    "habitantes": 6578,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 126,
+    "cidade": "Diamante",
+    "habitantes": 6570,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 127,
+    "cidade": "Santa Cecília",
+    "habitantes": 6570,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 128,
+    "cidade": "Marizópolis",
+    "habitantes": 6569,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 129,
+    "cidade": "Matureia",
+    "habitantes": 6516,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 130,
+    "cidade": "Capim",
+    "habitantes": 6441,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 131,
+    "cidade": "Brejo dos Santos",
+    "habitantes": 6435,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 132,
+    "cidade": "Cuité de Mamanguape",
+    "habitantes": 6349,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 133,
+    "cidade": "São José de Caiana",
+    "habitantes": 6256,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 134,
+    "cidade": "Igaracy",
+    "habitantes": 6182,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 135,
+    "cidade": "Serraria",
+    "habitantes": 6123,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 136,
+    "cidade": "Pedro Régis",
+    "habitantes": 6067,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 137,
+    "cidade": "Camalaú",
+    "habitantes": 5996,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 138,
+    "cidade": "Caldas Brandão",
+    "habitantes": 5986,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 139,
+    "cidade": "Nova Olinda",
+    "habitantes": 5971,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 140,
+    "cidade": "Ibiara",
+    "habitantes": 5949,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 141,
+    "cidade": "Barra de São Miguel",
+    "habitantes": 5943,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 142,
+    "cidade": "São José dos Ramos",
+    "habitantes": 5920,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 143,
+    "cidade": "Santa Helena",
+    "habitantes": 5902,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 144,
+    "cidade": "Malta",
+    "habitantes": 5668,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 145,
+    "cidade": "Montadas",
+    "habitantes": 5611,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 146,
+    "cidade": "Aguiar",
+    "habitantes": 5567,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 147,
+    "cidade": "Cabaceiras",
+    "habitantes": 5511,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 148,
+    "cidade": "Alcantil",
+    "habitantes": 5475,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 149,
+    "cidade": "Boa Ventura",
+    "habitantes": 5410,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 150,
+    "cidade": "Borborema",
+    "habitantes": 5399,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 151,
+    "cidade": "Vieirópolis",
+    "habitantes": 5327,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 152,
+    "cidade": "Damião",
+    "habitantes": 5296,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 153,
+    "cidade": "Curral de Cima",
+    "habitantes": 5238,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 154,
+    "cidade": "Santana de Mangueira",
+    "habitantes": 5191,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 155,
+    "cidade": "Pilõezinhos",
+    "habitantes": 5099,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 156,
+    "cidade": "Bom Sucesso",
+    "habitantes": 4989,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 157,
+    "cidade": "Sertãozinho",
+    "habitantes": 4969,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 158,
+    "cidade": "Catingueira",
+    "habitantes": 4927,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 159,
+    "cidade": "Nova Palmeira",
+    "habitantes": 4849,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 160,
+    "cidade": "Baraúna",
+    "habitantes": 4843,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 161,
+    "cidade": "Caturité",
+    "habitantes": 4810,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 162,
+    "cidade": "Monte Horebe",
+    "habitantes": 4793,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 163,
+    "cidade": "Congo",
+    "habitantes": 4785,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 164,
+    "cidade": "Lagoa",
+    "habitantes": 4676,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 165,
+    "cidade": "São José de Espinharas",
+    "habitantes": 4659,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 166,
+    "cidade": "Santa Teresinha",
+    "habitantes": 4582,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 167,
+    "cidade": "Matinhas",
+    "habitantes": 4517,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 168,
+    "cidade": "Riachão do Bacamarte",
+    "habitantes": 4503,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 169,
+    "cidade": "São Bentinho",
+    "habitantes": 4497,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 170,
+    "cidade": "Riachão do Poço",
+    "habitantes": 4481,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 171,
+    "cidade": "São João do Tigre",
+    "habitantes": 4427,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 172,
+    "cidade": "São João do Cariri",
+    "habitantes": 4309,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 173,
+    "cidade": "Logradouro",
+    "habitantes": 4299,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 174,
+    "cidade": "Poço de José de Moura",
+    "habitantes": 4282,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 175,
+    "cidade": "Prata",
+    "habitantes": 4145,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 176,
+    "cidade": "Caraúbas",
+    "habitantes": 4143,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 177,
+    "cidade": "São José do Sabugi",
+    "habitantes": 4135,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 178,
+    "cidade": "Mãe d'Água",
+    "habitantes": 4017,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 179,
+    "cidade": "Salgadinho",
+    "habitantes": 3927,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 180,
+    "cidade": "Olivedos",
+    "habitantes": 3916,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 181,
+    "cidade": "São José de Princesa",
+    "habitantes": 3897,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 182,
+    "cidade": "Assunção",
+    "habitantes": 3876,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 183,
+    "cidade": "Pedra Branca",
+    "habitantes": 3800,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 184,
+    "cidade": "Vista Serrana",
+    "habitantes": 3777,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 185,
+    "cidade": "Poço Dantas",
+    "habitantes": 3774,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 186,
+    "cidade": "Cacimba de Areia",
+    "habitantes": 3731,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 187,
+    "cidade": "São José dos Cordeiros",
+    "habitantes": 3720,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 188,
+    "cidade": "Duas Estradas",
+    "habitantes": 3606,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 189,
+    "cidade": "Santa Inês",
+    "habitantes": 3595,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 190,
+    "cidade": "Riachão",
+    "habitantes": 3570,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 191,
+    "cidade": "São José do Bonfim",
+    "habitantes": 3530,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 192,
+    "cidade": "Sossêgo",
+    "habitantes": 3522,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 193,
+    "cidade": "Emas",
+    "habitantes": 3507,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 194,
+    "cidade": "São Sebastião do Umbuzeiro",
+    "habitantes": 3469,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 195,
+    "cidade": "Gurjão",
+    "habitantes": 3407,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 196,
+    "cidade": "Bernardino Batista",
+    "habitantes": 3398,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 197,
+    "cidade": "São Francisco",
+    "habitantes": 3369,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 198,
+    "cidade": "Cajazeirinhas",
+    "habitantes": 3181,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 199,
+    "cidade": "Serra da Raiz",
+    "habitantes": 3137,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 200,
+    "cidade": "São Domingos",
+    "habitantes": 3091,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 201,
+    "cidade": "Serra Grande",
+    "habitantes": 3089,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 202,
+    "cidade": "Tenório",
+    "habitantes": 3039,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 203,
+    "cidade": "Ouro Velho",
+    "habitantes": 3033,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 204,
+    "cidade": "Frei Martinho",
+    "habitantes": 2988,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 205,
+    "cidade": "Mato Grosso",
+    "habitantes": 2892,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 206,
+    "cidade": "Várzea",
+    "habitantes": 2784,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 207,
+    "cidade": "Lastro",
+    "habitantes": 2745,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 208,
+    "cidade": "Joca Claudino",
+    "habitantes": 2685,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 209,
+    "cidade": "Carrapateira",
+    "habitantes": 2635,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 210,
+    "cidade": "São Domingos do Cariri",
+    "habitantes": 2582,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 211,
+    "cidade": "Bom Jesus",
+    "habitantes": 2550,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 212,
+    "cidade": "Santo André",
+    "habitantes": 2529,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 213,
+    "cidade": "Curral Velho",
+    "habitantes": 2520,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 214,
+    "cidade": "Algodão de Jandaíra",
+    "habitantes": 2488,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 215,
+    "cidade": "Passagem",
+    "habitantes": 2404,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 216,
+    "cidade": "Amparo",
+    "habitantes": 2229,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 217,
+    "cidade": "Zabelê",
+    "habitantes": 2227,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 218,
+    "cidade": "Areia de Baraúnas",
+    "habitantes": 2137,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 219,
+    "cidade": "Riacho de Santo Antônio",
+    "habitantes": 1955,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 220,
+    "cidade": "Quixaba",
+    "habitantes": 1933,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 221,
+    "cidade": "Coxixola",
+    "habitantes": 1909,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 222,
+    "cidade": "São José do Brejo do Cruz",
+    "habitantes": 1793,
+    "estado": "Paraíba",
+    "uf": "PB"
+  },
+  {
+    "id": 223,
+    "cidade": "Parari",
+    "habitantes": 1782,
+    "estado": "Paraíba",
+    "uf": "PB"
+  }
+]
